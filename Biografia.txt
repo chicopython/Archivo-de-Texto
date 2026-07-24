@@ -6,4 +6,4 @@ soy ing en sistemas
 
 aumento esto argumente 
 
-Cambio aspectods lo hise en github
+Cambio aspectods lo hise en GitHub (Actualizado desde local)
